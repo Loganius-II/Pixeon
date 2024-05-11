@@ -1,6 +1,6 @@
 # PIXEON: Picture Exploration & Neural Training Module
 ## Say hello to the pixeon pigeon!
-[Pixeon Pigeon](https://github.com/Loganius-II/Pixeon/blob/main/PIXEON_PIGEON.png)
+![Pixeon Pigeon](https://github.com/Loganius-II/Pixeon/blob/main/PIXEON_PIGEON.png)
 ## Overview:
    - A module, you could say, that you can use for determining picture accuracy
    - The main.py is what you want, everything else was just my "progress" saves
@@ -13,3 +13,7 @@
 # My Uses:
  - The whole reason that I created this in the first place was to make a homemade, inefficient, probably not 100% accurate face recognition system for my socket servers.
  - also just a cool concept
+# NOTE:
+### My pixeon package source code is in the `pixeon 0.0.1` (or what ever the version is) directory
+## PIP INSTALL WITH `pip install pixeon` or `python -m pip install pixeon` and for python3: `python3 -m pip install pixeon` 
+## Thanks
