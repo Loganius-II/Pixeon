@@ -1,5 +1,6 @@
 # PIXEON: Picture Exploration & Neural Training Module
 ## Say hello to the pixeon pigeon!
+[Pixeon Pigeon](https://github.com/Loganius-II/Pixeon/blob/main/PIXEON_PIGEON.png)
 ## Overview:
    - A module, you could say, that you can use for determining picture accuracy
    - The main.py is what you want, everything else was just my "progress" saves
